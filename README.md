@@ -169,7 +169,6 @@ The model rarely misses a real fire (recall 0.96 on the Fire class). Its main er
 ## Authors
 
 - **Prathisha R** (231501119)
-- **Preethi AH** (231501121)
 
 Department of Artificial Intelligence and Machine Learning, Rajalakshmi Engineering College, Chennai.
 
